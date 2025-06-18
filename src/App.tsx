@@ -186,14 +186,7 @@ function App() {
             </div>
 
             <div className="mt-6 flex justify-center gap-4">
-              <a 
-                href="https://github.com/pavanbaligar" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className={`p-3 rounded-lg ${darkMode ? 'bg-gray-800 hover:bg-gray-700' : 'bg-gray-100 hover:bg-gray-200'} transition-colors duration-200`}
-              >
-                <Github className="w-6 h-6" />
-              </a>
+              
               <a 
                 href="https://www.linkedin.com/in/pavanbaligar" 
                 target="_blank" 
